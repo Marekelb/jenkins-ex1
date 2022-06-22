@@ -5,3 +5,4 @@ Przykładowy projekt do testowania integracji Jenkins z Git.
 Jenkins Pipeline powinień być wykonywany po każdej modyfikacji.
 
 Test
+[![Build Status](http://labpsrv-06.northeurope.cloudapp.azure.com:8080/buildStatus/icon?job=jenkins-webhook)](http://labpsrv-06.northeurope.cloudapp.azure.com:8080/job/jenkins-webhook/)
